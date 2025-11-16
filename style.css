@@ -232,7 +232,6 @@ header {
     border-radius: 20px;
     
     background-image: url('assets/dragon-team.png');
-    /* REDUCED SIZE: Changed from 150vw to 120vw to make it smaller */
     background-size: 80vw auto; 
     background-repeat: no-repeat;
     background-position: center center; 
@@ -240,7 +239,6 @@ header {
     animation: bounceBackground 4s ease-in-out infinite;
 }
 
-/* ... (rest of the code remains the same) ... */
 .about-img img {
     width: 100%;
     object-fit: contain;
